@@ -21,7 +21,6 @@ Booking Trends: Analyze the number of bookings over time to identify peak and of
 Room Preferences: Understand which room types are most popular among customers.
 Hotel Performance: Evaluate which hotels have the highest bookings and identify potential reasons for their success.
 Booking Patterns: Dive deep into the booking data to identify patterns or anomalies that could provide business insights.
-(Expand with more analysis points based on your findings.)
 
 **Tools Used**
 Power BI (for data visualization and dashboard creation)
